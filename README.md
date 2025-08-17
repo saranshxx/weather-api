@@ -7,6 +7,7 @@ Displays temperature, Air Quality Index, and weather condition
 Clean and responsive UI
 
 Lightweight — runs directly in the browser
+
 🛠️ Tech Stack
 HTML – Structure
 CSS – Styling
